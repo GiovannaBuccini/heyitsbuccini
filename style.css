@@ -1,0 +1,27 @@
+body {
+    background-color: #ff94e856;
+    color: rgb(0, 0, 0);
+}
+.center {
+    text-align: center;
+    padding: 20px;
+}
+.alinha {
+    text-align:center
+}
+footer img {
+    border-radius: 50%;
+}
+.logo {   
+    text-align: center;
+}
+h1 {
+     color: rgb(0, 0, 0);
+}
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+main {
+    color: rgb(0, 0, 0);
+}
